@@ -1,4 +1,4 @@
-## Hi there 👋
+## 새로운 시작! 👋
 ![suykr's GitHub stats](https://github-readme-stats.vercel.app/api?username=suykr&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suykr&layout=compact)
 
